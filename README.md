@@ -11,8 +11,8 @@ Welcome to the Six Degrees of Kevin Bacon project repository! This Python projec
 
 ## Getting Started:
 
-1. Download the project code from [degrees.zip](https://cdn.cs50.net/ai/2023/x/projects/0/degrees.zip) and unzip it.
-2. Open a terminal and navigate to the project directory.
+1. Download the orginal version of the project from [degrees.zip](https://cdn.cs50.net/ai/2023/x/projects/0/degrees.zip) and unzip it.
+2. Or clone this version which support multiple algorithms.
 
 ## Available Algorithms:
 
@@ -24,62 +24,6 @@ Welcome to the Six Degrees of Kevin Bacon project repository! This Python projec
 
 - **Dijkstra's Algorithm:** Similar to UCS but focuses on finding the shortest paths in a graph. This algorithm considers the total distance traveled so far.
 
-## Setting Up a Virtual Environment:
-
-It's recommended to use a virtual environment to isolate your project's dependencies. Follow these steps to set up a virtual environment using `venv`:
-
-### Install Virtualenv:
-
-If you haven't installed `venv` (virtualenv), run the following command:
-
-```bash
-pip install virtualenv
-```
-
-### Create a Virtual Environment:
-
-Navigate to your project folder in the terminal and run:
-
-```bash
-python -m venv env
-```
-
-### Activate the Virtual Environment:
-
-On Mac:
-
-```bash
-source env/bin/activate
-```
-
-On Windows (CMD):
-
-```bash
-env\Scripts\activate.bat
-```
-
-On Windows (PowerShell):
-
-```bash
-env\Scripts\Activate.ps1
-```
-
-### Install Project Dependencies:
-
-Install the required dependencies for the Six Degrees of Kevin Bacon project:
-
-```bash
-pip install -r requirements.txt
-```
-
-### Create a Requirements File:
-
-Generate a requirements.txt file to document your project's dependencies:
-
-```bash
-pip freeze > requirements.txt
-```
-
 ## How to Use:
 
 1. Run the `degrees.py` script with your preferred algorithm as a command-line argument. For example:
@@ -87,7 +31,6 @@ pip freeze > requirements.txt
     ```bash
     python degrees.py BFS
     ```
-
     Supported algorithms: `DFS`, `BFS`, `UCS`, `Dijkstra`.
 
 2. Follow the on-screen instructions to input two actor names.
