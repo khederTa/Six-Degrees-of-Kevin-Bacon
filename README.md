@@ -12,7 +12,7 @@ Welcome to the Six Degrees of Kevin Bacon project repository! This Python projec
 ## Getting Started:
 
 1. Download the orginal version of the project from [degrees.zip](https://cdn.cs50.net/ai/2023/x/projects/0/degrees.zip) and unzip it.
-2. The used dataset existed inside `degreees.zip`.
+2. The used dataset existed inside `degrees.zip`.
 3. Clone this version of code which support multiple algorithms.
 
 ## Available Algorithms:
