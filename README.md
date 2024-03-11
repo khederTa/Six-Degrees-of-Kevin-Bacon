@@ -38,7 +38,7 @@ Welcome to the Six Degrees of Kevin Bacon project repository! This Python projec
 
 ## Additional Enhancements:
 
-Feel free to explore the code and contribute any additional enhancements or improvements. Share your ideas and collaborate to make this Tic-Tac-Toe project even more exciting!
+Feel free to explore the code and contribute any additional enhancements or improvements. Share your ideas and collaborate to make this Six Degrees of Kevin Bacon project even more exciting!
 
 ## Credits:
 
